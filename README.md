@@ -1,2 +1,2 @@
-# programacion
-Ejercicios de Codewars
+# EJERCICIOS PROGRAMACIÓN
+## RESPUESTAS DE EJERCICIOS DE CODEWAR
