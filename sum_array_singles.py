@@ -2,12 +2,14 @@
 
 
 def repeats(arr):
-    #si no se repite, hay que sumar
     sum= 0
     for i in arr:
         if arr.count(i) == 1:
             sum += int(i)
     return sum
+
+
+
 
 
 
